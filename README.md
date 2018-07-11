@@ -50,5 +50,11 @@ Bonus point (those items are optional):
 * **language-friendly**: we choose golang for most of the backend service, Beego for the web framework, Vuejs for the frontend. So if you choose these language or framework to finish this code challenge , you will earn extra bonus point
 * **git-friendly**: does the code include the right comments for every commit? 
 * **Production-readiness**: does the code include monitoring? logging? proper error handling?
-* **learning ability**: the ability to learn new knowledges ( programming language, framework, tools, or libraries ). If you don't know any about the languages , frameworks, libraries we choose, please tell us how much time would cost to learn it and finish part of this project.
+* **learning ability**: the ability to learn new knowledges ( programming language, framework, tools, or libraries ). If you don't know any about the languages , frameworks, libraries we choose, please tell us how much time you need to learn and finish parts of this project.
 
+Logic Flow
+-------------
+
+![](https://raw.githubusercontent.com/Unity-Labs-Development/Backend-Service-API-Demo/master/assets/user%20interaction%20logic%20.png)
+
+The logic flow describe the requirements of backend service, some of the requirements aren't accurate or reasonable, please choose a few features to finish in 4 - 5 hours. Fork first, please send PR when finished.
