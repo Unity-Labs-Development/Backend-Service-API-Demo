@@ -1,4 +1,4 @@
-# React Native - Coding challenge?
+# Backend Service - Coding challenge?
 
 
 We're looking for talent people who can build awesome products, so we created a set of open-ended challenges to test our candidates' overall developer skills. If you're interested in joining our team, complete this challenge and submit your pull request.
