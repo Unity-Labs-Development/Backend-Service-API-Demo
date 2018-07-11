@@ -47,7 +47,7 @@ The aspects of your code we will assess include:
 
 Bonus point (those items are optional):
 
-* **language-friendly**: we choose golang for most of the backend service, Beego for the web framework, Vuejs for the frontend. So if you choose these language or framework to finish this code challenge , you will earn extra bonus point
+* **language-friendly**: we choose golang for most of the backend service, Beego for the web framework, Vuejs for the frontend. You can use any other languages or frameworks to finish this code challenge, but if you choose these languages or frameworks, you will earn extra bonus point.
 * **git-friendly**: does the code include the right comments for every commit? 
 * **Production-readiness**: does the code include monitoring? logging? proper error handling?
 * **learning ability**: the ability to learn new knowledges ( programming language, framework, tools, or libraries ). If you don't know any about the languages , frameworks, libraries we choose, please tell us how much time you need to learn and finish parts of this project.
