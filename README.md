@@ -55,7 +55,7 @@ Bonus point (those items are optional):
 Logic Flow
 -------------
 
-![](https://raw.githubusercontent.com/Unity-Labs-Development/Backend-Service-API-Demo/master/assets/user%20interaction%20logic%20.png)
+![](https://raw.githubusercontent.com/Unity-Labs-Development/Backend-Service-API-Demo/master/assets/user%20interaction%20logic%20ver.02.png)
 
 The logic flow describe the requirements of backend service, some of the requirements aren't accurate or reasonable, please choose a few features to finish in 4 - 5 hours. Fork first, please send PR when finished.
 
